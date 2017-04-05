@@ -1,0 +1,5 @@
+.gitignore
+.idea/
+RNN-Data.zip
+__pycache__/
+test.py
