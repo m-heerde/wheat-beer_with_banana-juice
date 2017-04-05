@@ -1,0 +1,6 @@
+bottle
+numpy
+scipy
+keras
+theano
+tensorflow
