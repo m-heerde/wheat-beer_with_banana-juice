@@ -3,7 +3,7 @@ from network import RNN
 
 
 class RESTService:
-    def __init__(self, host='0.0.0.0', port=33333):
+    def __init__(self, host='0.0.0.0', port=8080):
         self._host = host
         self._port = port
         self._model = RNN()
